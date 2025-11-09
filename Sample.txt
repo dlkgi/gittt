@@ -2,4 +2,8 @@ This is the first file among all files
 this is the other file
 this is the third file
 this is the fourth file
+<<<<<<< HEAD
 this is the sixth file
+=======
+this is the fifth file
+>>>>>>> 063c6ca837e464ece156587db1754e2a322a5ef7
